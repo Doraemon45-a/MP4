@@ -1,4 +1,4 @@
-name: Convert MKV to MP4 and Upload to Google Drive
+name: Convert MP4 with Subtitle and Upload to Google Drive
 
 on:
   push:
@@ -25,17 +25,17 @@ jobs:
       run: |
         echo "${{ secrets.GDRIVE_TOKEN }}" | base64 --decode > token.pickle
 
-    - name: Download MKV file
+    - name: Download MP4 file
       run: |
-        curl -L -o video.mkv "https://tipistream.tipikuy.workers.dev/0:/GDFlix/Son%CE%B9c.The.Hedgehog.3.2024.1080p.WEB-DL.x265.6CH-Pahe.in.mkv"
+        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone1.mp4"
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/movie/Sonic.The.Hedgehog.3.2024.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone1.srt"
 
-    - name: Convert MKV to MP4
+    - name: Burn subtitles into MP4 (Hardsub)
       run: |
-        ffmpeg -i video.mkv -vf "scale=1920:1080,subtitles=subtitle.srt" -r 24 -c:v libx264 -preset veryfast -crf 22 -c:a aac -b:a 160k -ac 2 -af "volume=3.0" -movflags +faststart video.mp4
+        ffmpeg -i video.mp4 -vf "subtitles=subtitle.srt" -c:a copy output.mp4
 
     - name: Upload to Google Drive
-      run: python3 upload_to_gdrive.py video.mp4
+      run: python3 upload_to_gdrive.py output.mp4
