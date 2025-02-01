@@ -27,11 +27,11 @@ jobs:
 
     - name: Download MP4 file
       run: |
-        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone1.mp4"
+        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone2.mp4"
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone1.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone2.srt"
 
     - name: Burn subtitles into MP4 (Hardsub)
       run: |
