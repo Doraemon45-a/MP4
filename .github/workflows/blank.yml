@@ -11,34 +11,35 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v2
+      - name: Checkout repository
+        uses: actions/checkout@v2
 
-    - name: Set up dependencies
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y ffmpeg libass-dev
-        python3 -m pip install --upgrade pip
-        python3 -m pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
+      - name: Set up dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg libass-dev
+          python3 -m pip install --upgrade pip
+          python3 -m pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-    - name: Create token.pickle
-      run: |
-        echo "${{ secrets.GDRIVE_TOKEN }}" | base64 --decode > token.pickle
+      - name: Create token.pickle
+        run: |
+          echo "${{ secrets.GDRIVE_TOKEN }}" | base64 --decode > token.pickle
 
-    - name: Download MP4 file
-      run: |
-        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
+      - name: Download Subtitle file
+        run: |
+          curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone6.srt"
+          ls -lah $(pwd)
 
-    - name: Download Subtitle file
-      run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone6.srt"
+      - name: Check Subtitle Existence
+        run: |
+          if [ ! -f $(pwd)/subtitle.srt ]; then
+            echo "Error: subtitle.srt not found!"
+            exit 1
+          fi
 
-    - name: List Files (Check Download)
-      run: ls -lah
+      - name: Burn subtitles into MP4 (Hardsub)
+        run: |
+          ffmpeg -i video.mp4 -vf "subtitles=$(pwd)/subtitle.srt" -c:a copy output.mp4
 
-    - name: Burn subtitles into MP4 (Hardsub)
-      run: |
-        ffmpeg -i video.mp4 -vf "subtitles=$(pwd)/subtitle.srt" -c:a copy output.mp4
-
-    - name: Upload to Google Drive
-      run: python3 upload_to_gdrive.py output.mp4
+      - name: Upload to Google Drive
+        run: python3 upload_to_gdrive.py output.mp4
