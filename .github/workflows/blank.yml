@@ -21,21 +21,24 @@ jobs:
         python3 -m pip install --upgrade pip
         python3 -m pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
-    - name: Create token.pickle
+    - name: Create credentials.json
       run: |
-        echo "${{ secrets.GDRIVE_TOKEN }}" | base64 --decode > token.pickle
+        echo "${{ secrets.GDRIVE_TOKEN }}" | base64 --decode > credentials.json
 
     - name: Download MP4 file
       run: |
-        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/tono6.mp4"
+        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
 
-    - name: Download Subtitle file
+    - name: Use subtitle from repository
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.biz.id/hardsub/series/stone/apistone6.srt"
+        cp ./subtitle.srt ./subtitle.srt
 
     - name: Burn subtitles into MP4 (Hardsub)
       run: |
-        ffmpeg -i video.mp4 -vf "subtitles=${{ github.workspace }}/subtitle.srt" -c:a copy output.mp4
+        ffmpeg -i video.mp4 -vf "subtitles=subtitle.srt" -c:a copy output.mp4
+
+    - name: Verify output file
+      run: ls -lh output.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py output.mp4
