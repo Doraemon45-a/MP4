@@ -17,7 +17,7 @@ jobs:
     - name: Set up dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y ffmpeg
+        sudo apt-get install -y ffmpeg libass-dev
         python3 -m pip install --upgrade pip
         python3 -m pip install google-auth google-auth-oauthlib google-auth-httplib2 google-api-python-client
 
@@ -31,11 +31,14 @@ jobs:
 
     - name: Download Subtitle file
       run: |
-        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/apistone6.srt"
+        curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone6.srt"
+
+    - name: List Files (Check Download)
+      run: ls -lah
 
     - name: Burn subtitles into MP4 (Hardsub)
       run: |
-        ffmpeg -i video.mp4 -vf "subtitles=subtitle.srt" -c:a copy output.mp4
+        ffmpeg -i video.mp4 -vf "subtitles=$(pwd)/subtitle.srt" -c:a copy output.mp4
 
     - name: Upload to Google Drive
       run: python3 upload_to_gdrive.py output.mp4
