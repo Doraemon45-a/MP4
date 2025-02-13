@@ -27,7 +27,7 @@ jobs:
 
       - name: Download Subtitle file
         run: |
-          curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/stone6.srt"
+          curl -L -o subtitle.srt "https://str.tipiku.my.id/hardsub/series/stone/apistone6.srt"
           ls -lah $(pwd)
 
       - name: Check Subtitle Existence
@@ -39,7 +39,7 @@ jobs:
 
       - name: Download Video file
         run: |
-          curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
+          curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/tono.mp4"
           ls -lah $(pwd)
 
       - name: Check Video Existence
