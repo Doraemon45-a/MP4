@@ -37,6 +37,18 @@ jobs:
             exit 1
           fi
 
+      - name: Download Video file
+        run: |
+          curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
+          ls -lah $(pwd)
+
+      - name: Check Video Existence
+        run: |
+          if [ ! -f $(pwd)/video.mp4 ]; then
+            echo "Error: video.mp4 not found!"
+            exit 1
+          fi
+
       - name: Burn subtitles into MP4 (Hardsub)
         run: |
           ffmpeg -i video.mp4 -vf "subtitles=$(pwd)/subtitle.srt" -c:a copy output.mp4
