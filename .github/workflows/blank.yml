@@ -29,9 +29,9 @@ jobs:
       run: |
         curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
 
-    - name: Use subtitle from repository
-      run: |
-        cp ./subtitle.srt ./subtitle.srt
+    - name: List files for debugging
+      run: ls -lh
+
 
     - name: Burn subtitles into MP4 (Hardsub)
       run: |
