@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MP4 file
       run: |
-        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/tono.mp4"
+        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/tono6.mp4"
 
     - name: Download Subtitle file
       run: |
