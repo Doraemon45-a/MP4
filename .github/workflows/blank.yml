@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MP4 file
       run: |
-        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone6.mp4"
+        curl -L -o video.mp4 "https://tipistream.tipikuy.workers.dev/0:/series/anime/drstone4/stone7.mp4"
 
     - name: List files for debugging
       run: ls -lh
