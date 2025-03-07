@@ -1,1107 +1,1491 @@
 1
-00:01:30,778 --> 00:01:35,723
-Mineral nitrat ionik,
-asam nitrat, ya?
+00:00:03,392 --> 00:00:04,232
+<i>Jangan tembak, Stan!</i>
 
 2
-00:01:42,706 --> 00:01:46,335
-Oh, sudah kuduga, Stan.
+00:00:07,896 --> 00:00:10,264
+<i>Dr. Taiju hanyalah tipuan!</i>
 
 3
-00:01:46,752 --> 00:01:49,130
-Kau orang yang bangkit setelah diriku.
+00:00:12,170 --> 00:00:16,704
+<i>Pemimpin musuh yang sebenarnya</i>
+<i>adalah ilmuwan yang bernama...</i>
 
 4
-00:01:56,554 --> 00:01:59,515
-Sudah berapa lama
-setelah tragedi itu terjadi?
+00:00:19,240 --> 00:00:20,112
+<i>...Senku!</i>
 
 5
-00:02:00,182 --> 00:02:02,768
-Setidaknya sudah beberapa ribu tahun.
+00:00:21,672 --> 00:00:23,753
+<i>Ishigami Senku!</i>
 
 6
-00:02:03,477 --> 00:02:05,521
-Tidak adanya bangunan
-yang masih berdiri...
+00:00:25,336 --> 00:00:26,168
+<i>Penembak jitu!</i>
 
 7
-00:02:05,729 --> 00:02:08,190
-...menunjukkan bahwa pH beton
-terlalu rendah,
+00:00:26,400 --> 00:00:27,424
+<i>Ada penembak jitu!</i>
 
 8
-00:02:08,190 --> 00:02:09,191
-hingga baja tulangan tak lapuk...
-
-9
-00:02:09,191 --> 00:02:10,943
-Oke, aku paham.
-
-10
-00:02:11,277 --> 00:02:12,736
-Cukup penjelasannya.
-
-11
-00:02:16,782 --> 00:02:20,161
-Stan, bahkan pakaianmu sudah
-hancur karena pelapukan,
-
-12
-00:02:20,345 --> 00:02:22,431
-mustahil rokok masih utuh, bukan?
-
-13
-00:02:24,707 --> 00:02:27,001
-Gunakan kesempatan ini untuk...
-
-14
-00:02:27,001 --> 00:02:28,878
-...berhenti menghirup gas beracun.
-
-15
-00:02:31,698 --> 00:02:34,826
-Lalu, apa yang akan kau lakukan
-mulai dari sini?
-
-16
-00:02:35,509 --> 00:02:38,304
-Dahulu, seorang pria pernah berkata.
-
-17
-00:02:39,805 --> 00:02:42,141
-<i>Bagaimana pun juga keadaan</i>
-<i>umat manusia,</i>
-
-18
-00:02:42,516 --> 00:02:47,146
-<i>pasti akan muncul orang-orang yang</i>
-<i>ingin memahami mekanisme dunia ini.</i>
-
-19
-00:02:48,689 --> 00:02:50,399
-Maka ini akan menjadi
-sebuah kompetisi.
-
-20
-00:02:51,358 --> 00:02:54,278
-Sungguh sangat elegan, bukan?
-
-21
-00:02:55,070 --> 00:02:57,740
-Siapa yang akan menjadi
-ilmuwan pertama di dunia ini...
-
-22
-00:02:57,990 --> 00:03:01,535
-...dan menjadi diktator
-penguasa zaman batu ini?
-
-23
-00:04:36,088 --> 00:04:40,843
-TERKUNCI
-
-24
-00:04:45,306 --> 00:04:46,390
-Apa ini?
-
-25
-00:04:46,849 --> 00:04:49,810
-Asam nitrat,
-meski tingkat konsentratnya rendah.
-
-26
-00:04:49,935 --> 00:04:52,229
-Dengan ini memang
-bisa membangkitkan mereka?
-
-27
-00:04:52,354 --> 00:04:54,106
-Sudah kujelaskan ribuan tahun
-yang lalu, bukan?
-
-28
-00:04:54,106 --> 00:04:56,751
-Kalau patung burung
-walet yang terbuat dari...
-
-29
-00:04:57,531 --> 00:05:00,997
-...wol kaca direndam
-dengan asam nitrat.
-
-30
-00:05:01,021 --> 00:05:02,740
-Oke, aku paham.
-
-31
-00:05:03,699 --> 00:05:06,660
-Singkatnya, yang mereka
-perlu lakukan hanyalah...
-
-32
-00:05:06,660 --> 00:05:09,955
-...mematuhi perintah
-“pertahankan kesadaranmu.”
-
-33
-00:05:17,338 --> 00:05:20,466
-Jadi, tim superhero elit ini
-menunggu dalam diam!
-
-34
-00:05:20,799 --> 00:05:24,345
-Mematuhi perintah untuk
-tetap terjaga!
-
-35
-00:05:24,970 --> 00:05:27,139
-Sekarang lihatlah banyaknya
-jumlah kita...
-
-36
-00:05:27,139 --> 00:05:29,058
-...yang berhasil selamat, bukan,
-yang berhasil terjaga!
-
-37
-00:05:29,152 --> 00:05:31,612
-Yang lainnya mungkin hanya
-tinggal menunggu waktu saja,
-
-38
-00:05:31,727 --> 00:05:34,563
-kurasa mereka bisa bangkit
-kapan saja.
-
-39
-00:05:34,980 --> 00:05:40,699
-Staff acara yang hadir waktu itu mungkin
-mendengar perintah dari Stan juga.
-
-40
-00:05:40,819 --> 00:05:44,156
-Itu cara yang bisa membuat
-mereka tetap terjaga.
-
-41
-00:05:44,241 --> 00:05:48,574
-Mustahil untuk manusia biasa
-seperti mereka...
-
-42
-00:05:51,914 --> 00:05:52,915
-Nona!
-
-43
-00:06:08,472 --> 00:06:09,556
-Cincin?
-
-44
-00:06:10,778 --> 00:06:13,906
-Hebat juga kau bisa bertahan
-seperti itu!
-
-45
-00:06:14,019 --> 00:06:16,067
-Kita jadi patung batu
-karena mineral misterius,
-
-46
-00:06:16,159 --> 00:06:19,162
-jadi mulut dia berperan sebagai
-kapsul waktu selama ribuan tahun.
-
-47
-00:06:27,908 --> 00:06:30,369
-Ini, platinum?
-
-48
-00:06:32,246 --> 00:06:35,791
-Fantastis, sangat elegan!
-
-49
-00:06:38,919 --> 00:06:41,968
-Coba kau bayangkan semisal
-di zaman batu ini,
-
-50
-00:06:42,172 --> 00:06:46,306
-juara dunia beladiri bebas
-berhasil bangkit,
-
-51
-00:06:46,468 --> 00:06:50,055
-dunia ini akan dikuasainya.
-
-52
-00:06:50,681 --> 00:06:53,642
-Namun dengan adanya platinum ini,
-
-53
-00:06:53,976 --> 00:06:57,521
-kita bisa memproduksi asam nitrat
-dalam jumlah besar,
-
-54
-00:06:57,896 --> 00:07:01,859
-dan menciptakan
-kekuatan sains dan militer.
-
-55
-00:07:03,277 --> 00:07:06,572
-Untuk mewujudkan itu semua,
-pertama kita butuh populasi.
-
-56
-00:07:15,831 --> 00:07:18,917
-Setelah kita mencapai jumlah populasi,
-
-57
-00:07:19,209 --> 00:07:22,421
-selanjutnya kita harus punya
-jagung <i>yellow dent.</i>
-
-58
-00:07:23,297 --> 00:07:26,133
-Kita harus menemukan lokasi
-yang sesuai...
-
-59
-00:07:26,250 --> 00:07:28,544
-...untuk menanam jagung
-dan membangun markas.
-
-60
-00:07:37,536 --> 00:07:39,000
-Memastikan
-kebutuhan pokok seperti...
-
-61
-00:07:39,025 --> 00:07:40,731
-...makanan, baju dan
-tempat tinggal tercukupi,
-
-62
-00:07:40,731 --> 00:07:43,025
-lalu memulai untuk memproduksi
-bubuk mesiu.
-
-63
-00:07:43,760 --> 00:07:46,888
-Bersamaan dengan itu,
-kita juga meningkatkan...
-
-64
-00:07:46,982 --> 00:07:50,152
-...kemurnian logam dan
-kepresisian mesin perkakas kita,
-
-65
-00:07:53,535 --> 00:07:56,747
-dan akhirnya kita bisa punya
-“senjata api.”
-
-66
-00:08:07,466 --> 00:08:09,051
-Sungguh elegan!
-
-67
-00:08:09,259 --> 00:08:12,554
-Dengan ini kita akan menjadi
-entitas yang unggul...
-
-68
-00:08:12,638 --> 00:08:15,391
-...dalam bidang sains dan militer
-di zaman batu ini!
-
-69
-00:08:15,474 --> 00:08:16,183
-Ya.
-
-70
-00:08:26,026 --> 00:08:29,321
-Kau sudah menyadari
-tumbuhan terlarang itu?
-
-71
-00:08:30,447 --> 00:08:33,450
-Tembakau liar tumbuh di sekitar sini.
-
-72
-00:08:35,661 --> 00:08:40,541
-Ya, anggap saja itu sebagai
-bonus untukku.
-
-73
-00:08:43,627 --> 00:08:45,587
-<i>Cochlearia tabacum.</i>
-
-74
-00:08:46,213 --> 00:08:50,926
-Jika daun tanaman ini dikeringkan,
-kemudian diiris halus,
-
-75
-00:08:51,635 --> 00:08:53,428
-dibungkus dengan kertas...
-
-76
-00:08:53,470 --> 00:08:56,098
-...jadilah rokok lintingan!
-
-77
-00:09:15,242 --> 00:09:17,744
-Tidak ada lagi ancaman
-yang bisa mengancam kita!
-
-78
-00:09:18,268 --> 00:09:20,149
-Dengan sainsku dan
-dengan keahlian senjata...
-
-79
-00:09:20,298 --> 00:09:23,440
-...milik teman semasa
-kecilku, Stanley,
-
-80
-00:09:24,084 --> 00:09:30,424
-aku bisa memimpin dunia ini sebagai
-pemimpin yang tidak bisa diragukan lagi!
-
-81
-00:09:30,591 --> 00:09:32,551
-Aku yakin kita pasti bisa!
-
-82
-00:09:33,260 --> 00:09:35,554
-Benar, ‘kan, Stan?
-
-83
-00:09:40,142 --> 00:09:42,811
-Ya, kita bisa.
-
-84
-00:09:52,779 --> 00:09:56,074
-Jadi, Senku dan Xeno,
-mantan ilmuwan mentor...
-
-85
-00:09:56,074 --> 00:09:58,285
-...dan murid terbangun
-di waktu yang sama,
-
-86
-00:09:58,327 --> 00:10:00,662
-dan keduanya sama-sama tertarik
-dengan asam nitrat.
-
-87
-00:10:01,496 --> 00:10:02,873
-Yang satu memanfaatkan sains,
-
-88
-00:10:02,873 --> 00:10:05,000
-menciptakan alat yang bisa
-membantu manusia.
-
-89
-00:10:05,584 --> 00:10:07,210
-Yang satu memanfaatkan sains,
-
-90
-00:10:07,210 --> 00:10:09,171
-menciptakan alat yang bisa
-membunuh manusia.
-
-91
-00:10:09,796 --> 00:10:11,214
-Jadi, begitu.
-
-92
-00:10:17,679 --> 00:10:20,140
-<i>Apa sih yang sedang mereka</i>
-<i>bicarakan di sana?</i>
-
-93
-00:10:20,270 --> 00:10:22,526
-<i>Ada sesuatu yang menarik</i>
-<i>dengan pria bernama Senku itu,</i>
-
-94
-00:10:22,601 --> 00:10:25,896
-<i>mungkin dia kenalannya Xeno?</i>
-
-95
-00:10:30,651 --> 00:10:33,445
-<i>Apa pun itu, aku harus mendekat.</i>
-
-96
-00:10:33,445 --> 00:10:36,740
-<i>Karena aku si gadis keren, Luna.</i>
-
-97
-00:10:36,740 --> 00:10:37,824
-Apa?
-
-98
-00:10:38,817 --> 00:10:41,403
-Jadi maksudmu, seorang profesor
-yang membantu kita...
-
-99
-00:10:41,512 --> 00:10:44,432
-...membuat roket adalah ilmuwan
-bos besar musuh?
-
-100
-00:10:45,374 --> 00:10:48,543
-<i>Dia ada di sini,</i>
-<i>dia sedang berada di atas dek!</i>
-
-101
-00:10:48,543 --> 00:10:50,629
-<i>Dr. Taiju!</i>
-
-102
-00:10:52,089 --> 00:10:55,446
-<i>Yang harus kulakukan sekarang</i>
-<i>adalah...</i>
-
-103
-00:10:56,181 --> 00:10:58,556
-<i>...menunjuk agar Stanley dapat</i>
-<i>menembak orang ini,</i>
-
-104
-00:10:58,637 --> 00:11:00,972
-<i>lalu kemenangan pun menjadi</i>
-<i>milik kita!</i>
-
-105
-00:11:02,432 --> 00:11:05,269
-<i>Sudah pasti, bukan?</i>
-
-106
-00:11:05,394 --> 00:11:08,063
-<i>Semua ini bertujuan untuk itu!</i>
-
-107
-00:11:08,146 --> 00:11:11,817
-<i>Aku si gadis serba bisa, Luna!</i>
-
-108
-00:11:22,536 --> 00:11:26,581
-Kita harus berterima kasih
-kepada Luna atas info penting ini,
-
-109
-00:11:27,165 --> 00:11:31,336
-karena kalau musuh kita
-adalah Dr. Xeno,
-
-110
-00:11:31,586 --> 00:11:34,840
-medusa ini bisa menjadi
-kartu as kita.
-
-111
-00:11:35,934 --> 00:11:39,104
-Kita masih bisa memakai
-alat itu lagi?
-
-112
-00:11:39,198 --> 00:11:42,493
-Tidak, baterainya sudah habis,
-kalian ‘kan sudah tahu itu.
-
-113
-00:11:42,556 --> 00:11:44,015
-Apa maksudmu?
-
-114
-00:11:44,558 --> 00:11:48,854
-Dr. Xeno tahu betul sekuat apa
-senjata sains itu,
-
-115
-00:11:49,104 --> 00:11:52,315
-dia akan berusaha mendapatkannya
-untuk menguasai dunia baru.
-
-116
-00:11:52,774 --> 00:11:56,741
-Kalau medusa adalah senjata sains super,
-dia tidak akan mungkin mengabaikan itu.
-
-117
-00:11:58,572 --> 00:12:02,909
-Aku paham, jadi tak masalah meskipun
-kita tidak dapat memakainya.
-
-118
-00:12:03,285 --> 00:12:06,288
-Karena musuh ini adalah ilmuwan
-yang berbakat,
-
-119
-00:12:06,374 --> 00:12:10,795
-kita bisa membuat medusa menjadi
-senjata yang tak terkalahkan.
-
-120
-00:12:10,872 --> 00:12:12,624
-Ya, itu maksudku.
-
-121
-00:12:13,852 --> 00:12:15,187
-Walau aku tidak terlalu paham,
-
-122
-00:12:15,212 --> 00:12:17,339
-tapi maksudnya kita
-menggunakan medusa yang...
-
-123
-00:12:17,377 --> 00:12:19,462
-...sudah kehabisan baterai
-untuk menakuti musuh?
-
-124
-00:12:19,551 --> 00:12:23,638
-<i>Ayo, sekarang, tunjuk Dr. Taiju!</i>
-
-125
-00:12:24,014 --> 00:12:28,314
-<i>Tinggal gerakan jari ini, semudah itu,</i>
-<i>maka ini semua akan berakhir.</i>
-
-126
-00:12:28,369 --> 00:12:31,289
-<i>Tenang, ayo lakukan ini dengan</i>
-<i>cara yang tenang.</i>
-
-127
-00:13:08,725 --> 00:13:12,646
-Ayo kita beri dia perawatan
-terlebih dulu!
-
-128
-00:13:29,329 --> 00:13:30,664
-<i>Tidak bisa!</i>
-
-129
-00:13:35,836 --> 00:13:38,004
-<i>Kenapa aku ini?</i>
-
-130
-00:13:38,171 --> 00:13:41,758
-<i>Aku si gadis keren,</i>
-<i>si gadis serba bisa ini...</i>
-
-131
-00:13:42,092 --> 00:13:44,678
-<i>Setidaknya aku harus</i>
-<i>menginfokan sesuatu!</i>
-
-132
-00:13:47,126 --> 00:13:49,933
-Pria yang kemungkinan
-kenalannya Dr. Xeno,
-
-133
-00:13:50,141 --> 00:13:52,018
-pria bernama Senku itu.
-
-134
-00:13:54,104 --> 00:13:56,231
-Sepertinya nona mengatakan sesuatu.
-
-135
-00:13:56,314 --> 00:13:57,065
-Apa?
-
-136
-00:13:58,191 --> 00:14:01,038
-Senku!
-
-137
-00:14:01,778 --> 00:14:04,447
-Senku?
-
-138
-00:14:10,871 --> 00:14:13,248
-Senku?
-
-139
-00:14:13,456 --> 00:14:14,540
-Apa, sih?
-
-140
-00:14:14,603 --> 00:14:15,896
-Aku tidak paham.
-
-141
-00:14:15,959 --> 00:14:19,170
-Tapi itu info dari nona yang didapatkan
-dengan mempertaruhkan nyawanya,
-
-142
-00:14:19,296 --> 00:14:20,813
-jadi, info itu pasti penting!
-
-143
-00:14:20,881 --> 00:14:23,091
-Kita harus lapor Xeno!
-
-144
-00:14:26,469 --> 00:14:28,638
-<i>Kepada Kastil Putih!</i>
-
-145
-00:14:28,847 --> 00:14:30,599
-<i>Dengan Dua Hantu!</i>
-
-146
-00:14:30,891 --> 00:14:33,810
-<i>Aku ingin memberi info dari nona!</i>
-
-147
-00:14:39,858 --> 00:14:40,859
-Apa?
-
-148
-00:14:41,860 --> 00:14:42,903
-Senku!
-
-149
-00:14:46,573 --> 00:14:47,449
-Ada apa?
-
-150
-00:14:47,532 --> 00:14:50,368
-<i>Aku baru saja ingin siaran radio</i>
-<i>tapi ketika...</i>
-
-151
-00:14:50,368 --> 00:14:53,580
-<i>...mau memakai alatnya muncul</i>
-<i>bunyi “bzzzzzttt.”</i>
-
-152
-00:14:59,127 --> 00:15:00,545
-Diacak.
-
-153
-00:15:02,797 --> 00:15:05,634
-Pesan yang dikirim melalui
-alat enkripsi.
-
-154
-00:15:06,009 --> 00:15:07,010
-Kode?
-
-155
-00:15:07,119 --> 00:15:10,122
-Pesan rahasia?
-Ini tidak adil!
-
-156
-00:15:10,173 --> 00:15:11,258
-Pasti dari komplotan Xeno!
-
-157
-00:15:11,306 --> 00:15:13,683
-Apa kita tidak bisa
-memecahkan kodenya?
-
-158
-00:15:13,892 --> 00:15:17,604
-Sulit, kalau tidak menggunakan
-penganalisa spektral.
-
-159
-00:15:17,979 --> 00:15:20,028
-Aku tidak tahu itu,
-
-160
-00:15:20,118 --> 00:15:21,856
-tapi kedengarannya itu mustahil!
-
-161
-00:15:22,400 --> 00:15:23,443
-<i>Tunggu!</i>
-
-162
-00:15:23,568 --> 00:15:25,654
-<i>Peduli setan dengan pesannya.</i>
-
-163
-00:15:26,905 --> 00:15:30,533
-<i>Intinya, kejadiannya tepat dengan aku</i>
-<i>melihat Luna bertingkah aneh ke sana,</i>
-
-164
-00:15:31,235 --> 00:15:32,811
-<i>jadi...</i>
-
-165
-00:15:34,647 --> 00:15:37,316
-<i>Musuhnya ada di dekat sini?</i>
-
-166
-00:15:50,971 --> 00:15:55,058
-Oke, tampaknya kau lah Dr. Taiju itu.
-
-167
-00:15:58,728 --> 00:15:59,771
-Jangan tembak, Stan!
-
-168
-00:16:04,901 --> 00:16:07,737
-Dr. Taiju hanyalah tipuan!
-
-169
-00:16:09,322 --> 00:16:14,119
-Pemimpin musuh yang sebenarnya
-adalah ilmuwan yang bernama...
-
-170
-00:16:16,413 --> 00:16:17,580
-...Senku!
-
-171
-00:16:18,707 --> 00:16:21,167
-Ishigami Senku!
-
-172
-00:16:23,918 --> 00:16:29,097
-Jadi, yang mana
-target sebenarnya,
-
-173
-00:16:29,485 --> 00:16:31,305
-si Dr. Senku itu?
-
-174
-00:16:34,139 --> 00:16:37,434
-Pria yang pertama
-mengangkat telepon itu.
-
-175
-00:16:38,121 --> 00:16:40,707
-Kepada Perseus, apa kalian dengar?
-
-176
-00:16:40,809 --> 00:16:42,311
-Ini aku,
-akan ada perubahan rencana.
-
-177
-00:16:42,397 --> 00:16:45,191
-Dimengerti,
-sudah tidak perlu bicara lagi!
-
-178
-00:16:45,775 --> 00:16:48,486
-<i>Kemampuan analisis</i>
-<i>yang menakjubkan itu.</i>
-
-179
-00:16:51,781 --> 00:16:55,285
-<i>Aku bisa tahu karena</i>
-<i>ribuan tahun yang lalu,</i>
-
-180
-00:16:55,285 --> 00:16:58,288
-<i>ada anak yang sering berdiskusi</i>
-<i>denganku mengenai pembuatan roket,</i>
-
-181
-00:16:58,288 --> 00:17:00,582
-<i>berkali-kali,</i>
-<i>sebanyak bintang di langit.</i>
-
-182
-00:17:01,791 --> 00:17:04,002
-<i>Aku sudah merekam</i>
-<i>semua transmisinya.</i>
-
-183
-00:17:05,628 --> 00:17:07,464
-Dan suara Senku...
-
-184
-00:17:08,882 --> 00:17:10,008
-...adalah yang ini!
-
-185
-00:17:11,134 --> 00:17:14,892
-Tempatku jauh loh, jadi mustahil
-untuk mendengar suaranya.
-
-186
-00:17:15,013 --> 00:17:16,306
-<i>Tidak perlu!</i>
-
-187
-00:17:17,182 --> 00:17:19,684
-Hanya dengan suaranya saja aku bisa
-memperkirakan tinggi badannya!
-
-188
-00:17:22,645 --> 00:17:27,525
-<i>Dengan lingkup fungsi domain, aku bisa</i>
-<i>menghitung panjang saluran vokalnya.</i>
-
-189
-00:17:27,625 --> 00:17:30,158
-<i>Ditambah dengan</i>
-<i>tinggi rata-rata badan manusia,</i>
-
-190
-00:17:30,278 --> 00:17:34,741
-<i>maka, tingginya sekitar 5.7 kaki,</i>
-<i>dengan kekeliruan sekitar 1-2 inchi.</i>
-
-191
-00:17:35,686 --> 00:17:39,690
-<i>Lalu, semenjak pertemuan kami</i>
-<i>untuk pertama dan terakhir kalinya itu,</i>
-
-192
-00:17:40,080 --> 00:17:43,208
-<i>dia mungkin sudah tumbuh sedikit.</i>
-
-193
-00:17:47,003 --> 00:17:48,213
-Yang artinya...
-
-194
-00:17:49,714 --> 00:17:54,594
-<i>...dia pria, berumur 19 tahun</i>
-<i>dengan tinggi kira-kira 5.7-8 kaki.</i>
-
-195
-00:17:55,804 --> 00:17:58,598
-Oke, diterima.
-
-196
-00:18:00,457 --> 00:18:02,562
-Dengan Luna yang kujadikan
-sebagai tolak ukur,
-
-197
-00:18:02,602 --> 00:18:04,692
-menentukan tinggi badan mereka
-menjadi mudah.
-
-198
-00:18:07,148 --> 00:18:08,108
-Satu...
-
-199
-00:18:10,819 --> 00:18:11,653
-Dua...
-
-200
-00:18:14,531 --> 00:18:17,617
-...tiga di antara mereka cocok
-dengan parameter.
-
-201
-00:18:18,388 --> 00:18:19,306
-Penembak jitu!
-
-202
-00:18:19,369 --> 00:18:20,662
-Ada penembak jitu!
-
-203
-00:18:21,788 --> 00:18:22,664
-Sembunyi!
-
-204
-00:18:22,664 --> 00:18:24,040
-Cepat sembunyi di balik sesuatu!
-
-205
-00:18:34,801 --> 00:18:36,803
+00:00:29,632 --> 00:00:31,260
 <i>Eh, ketahuan?</i>
 
-206
-00:18:38,304 --> 00:18:40,557
-<i>Bodoh, jangan melihat ke sini, Luna!</i>
+9
+00:00:32,952 --> 00:00:35,014
+<i>Bodoh,</i>
+<i>jangan melihat ke sini, Luna!</i>
 
-207
-00:18:40,974 --> 00:18:42,851
+10
+00:00:35,648 --> 00:00:37,320
 <i>Kau bisa membocorkan posisiku!</i>
 
-208
-00:18:44,435 --> 00:18:45,687
+11
+00:00:39,024 --> 00:00:39,920
 <i>Eh, tidak, tunggu.</i>
 
-209
-00:18:46,354 --> 00:18:47,438
+12
+00:00:41,096 --> 00:00:41,656
 <i>Lihat ke sini!</i>
 
-210
-00:18:48,648 --> 00:18:53,778
+13
+00:00:43,360 --> 00:00:48,168
 <i>Dengan kata lain, pimpinan ilmuwan</i>
 <i>mereka ada di antara ketiga pria ini.</i>
 
-211
-00:18:54,320 --> 00:18:57,574
+14
+00:00:48,912 --> 00:00:52,136
 <i>Kalau seperti yang dibilang Xeno,</i>
 
-212
-00:18:58,032 --> 00:18:59,997
-<i>pemimpin mereka</i>
-<i>yang berpikiran tajam itu...</i>
+15
+00:00:52,672 --> 00:00:54,592
+<i>pemimpin mereka yang</i>
+<i>berpikiran tajam itu...</i>
 
-213
-00:19:00,144 --> 00:19:03,121
+16
+00:00:54,856 --> 00:00:57,392
 <i>...pasti akan mengikuti</i>
 <i>arah pandangan Luna!</i>
 
-214
-00:19:03,830 --> 00:19:04,998
+17
+00:00:58,376 --> 00:00:59,048
 <i>Dan pasti...</i>
 
-215
-00:19:06,249 --> 00:19:07,625
+18
+00:01:00,976 --> 00:01:01,968
 <i>...akan terlihat jelas!</i>
 
-216
-00:19:08,710 --> 00:19:11,546
+19
+00:01:03,688 --> 00:01:06,295
 <i>Halo, Ishigami Senku.</i>
 
-217
-00:19:20,138 --> 00:19:21,806
-<i>Aku sangat jelas melihatmu...</i>
+20
+00:01:08,672 --> 00:01:12,551
+<i>Xeno, ini kesempatan terakhir,</i>
+<i>jadi aku harus memastikannya.</i>
 
-218
-00:19:26,144 --> 00:19:27,437
-Senku?
-
-219
-00:19:28,688 --> 00:19:29,939
-<i>Oh...</i>
-
-220
-00:19:30,899 --> 00:19:32,525
-<i>Dia menggunakan</i>
-<i>prinsip geometris untuk...</i>
-
-221
-00:19:32,525 --> 00:19:34,360
-<i>...mendapatkan titik optimal</i>
-<i>agar lolos dari bidikanku.</i>
-
-222
-00:19:34,402 --> 00:19:35,445
-<i>Lumayan.</i>
-
-223
-00:19:36,613 --> 00:19:40,783
-<i>Tapi, sebenarnya itu justru</i>
-<i>memberi tahuku tempatmu berada.</i>
-
-224
-00:19:43,036 --> 00:19:47,123
-Xeno, ini kesempatan terakhir,
-jadi aku harus memastikannya.
-
-225
-00:19:49,250 --> 00:19:53,504
+21
+00:01:14,928 --> 00:01:19,016
 <i>Kau yakin menginginkan dia</i>
 <i>untuk mati?</i>
 
+22
+00:01:22,304 --> 00:01:25,064
+<i>Ya, tembak saja.</i>
+
+23
+00:03:09,084 --> 00:03:13,964
+CAHAYA SAINS
+
+24
+00:03:17,400 --> 00:03:18,112
+Suara tembakan?
+
+25
+00:03:18,460 --> 00:03:20,248
+Pelurunya sampai ke kita?
+
+26
+00:03:20,664 --> 00:03:23,424
+Tidak, dampaknya lebih cepat
+daripada suaranya!
+
+27
+00:03:25,104 --> 00:03:27,112
+Mereka sudah menembakkannya!
+
+28
+00:03:33,320 --> 00:03:34,000
+Se...
+
+29
+00:03:34,904 --> 00:03:37,760
+Senku!
+
+30
+00:03:52,711 --> 00:03:54,312
+Pekerjaanku sudah selesai,
+
+31
+00:03:54,848 --> 00:03:57,928
+ilmuwan pimpinan musuh sudah
+berhasil kutumbangkan.
+
+32
+00:04:00,312 --> 00:04:01,568
+Kalian tetap di sini.
+
+33
+00:04:03,504 --> 00:04:04,304
+Dan tetap waspada.
+
+34
+00:04:04,792 --> 00:04:05,346
+Tapi...
+
+35
+00:04:05,370 --> 00:04:07,448
+Bagaimana dengan nona?
+
+36
+00:04:07,726 --> 00:04:09,476
+Mau menyelamatkan atau
+meninggalkannya,
+
+37
+00:04:09,500 --> 00:04:10,704
+terserah kalian.
+
+38
+00:04:11,260 --> 00:04:12,808
+Itu bukan urusanku.
+
+39
+00:04:14,632 --> 00:04:16,336
+Sialan!
+
+40
+00:04:17,464 --> 00:04:18,440
+Nona...
+
+41
+00:04:20,239 --> 00:04:23,808
+<i>Aku harus bagaimana?</i>
+
+42
+00:04:25,384 --> 00:04:26,424
+Senku!
+
+43
+00:04:26,688 --> 00:04:29,224
+Terbunuh!
+
+44
+00:04:31,232 --> 00:04:32,088
+Jangan panik!
+
+45
+00:04:32,930 --> 00:04:33,857
+Pasti mereka berpikir,
+
+46
+00:04:33,881 --> 00:04:37,216
+“Senku, ilmuwan pemimpin mereka
+sudah berhasil kita singkirkan,”
+
+47
+00:04:37,620 --> 00:04:39,367
+“perbedaan kekuatan kita
+sudah semakin besar.”
+
+48
+00:04:39,391 --> 00:04:41,199
+“Sekarang kita hanya tinggal menekan
+anak-anak itu secara perlahan...
+
+49
+00:04:41,223 --> 00:04:42,648
+...hingga mereka menyerah
+dengan sendirinya.”
+
+50
+00:04:43,464 --> 00:04:46,860
+Inilah waktu yang tepat untuk
+kita melakukan serangan balik!
+
+51
+00:04:47,304 --> 00:04:48,008
+Benar, bukan?
+
+52
+00:04:52,216 --> 00:04:55,848
+Memang benar ini bisa jadi
+kesempatan bagi kita,
+
+53
+00:04:56,352 --> 00:05:01,008
+tapi bagaimana kita keluar
+dari situasi seperti ini?
+
+54
+00:05:01,392 --> 00:05:02,480
+Itu benar!
+
+55
+00:05:03,000 --> 00:05:05,696
+Setidaknya kita makamkan Senku
+terlebih dahulu...
+
+56
+00:05:07,786 --> 00:05:09,112
+Jangan terlalu cepat
+mengambil kesimpulan!
+
+57
+00:05:17,016 --> 00:05:18,960
+"Aku belum mati, bodoh!"
+
+58
+00:05:24,630 --> 00:05:26,440
+"Pelurunya tidak berhasil
+mengenaiku!"
+
+59
+00:05:27,040 --> 00:05:28,376
+Begitu katanya.
+
+60
+00:05:31,240 --> 00:05:33,144
+Jangan memaksakan diri
+untuk berbicara dulu, Senku!
+
+61
+00:05:33,420 --> 00:05:35,704
+Jangan bergerak dulu!
+
+62
+00:05:35,824 --> 00:05:38,106
+Syukurlah kau masih selama...
+
+63
+00:05:38,130 --> 00:05:39,024
+Mohon maaf!
+
+64
+00:05:39,504 --> 00:05:42,528
+Jangan teriak keras-keras,
+nanti kedengaran musuh!
+
+65
+00:05:43,336 --> 00:05:46,016
+Apa kau menggunakan ini
+untuk menghentikan peluru itu?
+
+66
+00:05:46,304 --> 00:05:48,832
+Dengan kantong bubuk
+dan air ini?
+
+67
+00:05:51,456 --> 00:05:53,808
+Kau telah melakukan
+hal yang hebat!
+
+68
+00:05:55,928 --> 00:05:57,999
+"Kalau yang mereka incar
+adalah kepala,"
+
+69
+00:05:58,023 --> 00:06:00,536
+"10 milyar persen aku pasti
+akan langsung mati."
+
+70
+00:06:01,680 --> 00:06:05,184
+"Yang mereka tahu, hanya akulah yang
+mengingat resep cairan pembangkit,"
+
+71
+00:06:06,096 --> 00:06:09,704
+"jadi musuh mungkin ingin memberiku
+sedikit waktu untuk meninggalkan wasiat."
+
+72
+00:06:10,616 --> 00:06:14,952
+"Jadi aku sudah memprediksi
+mereka akan mengincar dadaku."
+
+73
+00:06:16,112 --> 00:06:18,896
+Dan sepertinya dia sekarang
+mengatakannya dengan bahasa Inggris.
+
+74
+00:06:19,440 --> 00:06:20,752
+“If it was headshot,”
+(Jika saja dia menembak kepalaku, )
+
+75
+00:06:21,128 --> 00:06:23,170
+“It would have been an instant death.”
+(aku pasti akan langsung mati.)
+
+76
+00:06:23,808 --> 00:06:25,664
+Interpreter instan,
+benar-benar gila!
+
+77
+00:06:25,776 --> 00:06:27,600
+Sudah kubilang jangan bicara dulu!
+
+78
+00:06:28,872 --> 00:06:30,504
+Hebat!
+
+79
+00:06:31,160 --> 00:06:33,400
+Kau bisa berpikir cepat...
+
+80
+00:06:35,904 --> 00:06:37,200
+...dalam situasi seperti itu!
+
+81
+00:06:40,984 --> 00:06:41,720
+Dia pingsan!
+
+82
+00:06:42,704 --> 00:06:43,968
+Lukanya pasti sangat serius?
+
+83
+00:06:44,440 --> 00:06:46,208
+Aku sudah memberinya
+pertolongan pertama,
+
+84
+00:06:46,688 --> 00:06:50,720
+namun tindakan selanjutnya
+butuh penanganan seorang dokter.
+
+85
+00:07:04,912 --> 00:07:05,648
+Aku...
+
+86
+00:07:05,920 --> 00:07:08,544
+...masih mengingatnya sedikit,
+tapi...
+
+87
+00:07:09,320 --> 00:07:11,704
+Kalau bisepnya digenggam...
+
+88
+00:07:12,328 --> 00:07:14,384
+...maka denyut nadi akan hilang.
+
+89
+00:07:14,750 --> 00:07:15,557
+TEKANAN DARAH RENDAH TEKANAN DARAH TINGGI
+
+90
+00:07:15,581 --> 00:07:17,952
+<i>Bila hilang dengan genggaman ringan</i>
+<i>itu artinya tekanan darahnya rendah.</i>
+
+91
+00:07:17,976 --> 00:07:18,644
+GENGGAM DENGAN RINGAN GENGGAM DENGAN KUAT
+
+92
+00:07:18,668 --> 00:07:21,440
+<i>Bila hilang dengan genggaman kuat</i>
+<i>itu artinya tekanan darahnya tinggi.</i>
+
+93
+00:07:22,216 --> 00:07:24,173
+Dari yang pernah kupelajari,
+jadi...
+
+94
+00:07:25,616 --> 00:07:27,016
+...tekanan darahnya menurun.
+
+95
+00:07:27,390 --> 00:07:27,864
+Luna,
+
+96
+00:07:28,792 --> 00:07:29,660
+kau ini dokter?
+
+97
+00:07:29,832 --> 00:07:33,952
+Eh, bukan, bukan, mana mungkin
+gadis sepertiku ini seorang dokter.
+
+98
+00:07:35,736 --> 00:07:39,560
+Aku hanya mahasiswi kedokteran.
+
+99
+00:07:45,056 --> 00:07:46,800
+<i>Luna ingin menjadi gadis</i>
+<i>yang serba bisa,</i>
+
+100
+00:07:46,888 --> 00:07:49,392
+<i>dan ingin punya pacar</i>
+<i>yang pintar dan tampan.</i>
+
+101
+00:07:50,864 --> 00:07:54,203
+<i>Tapi, aku berhasil jadi mahasiswi</i>
+<i>kedokteran berkat koneksi dari papa,</i>
+
+102
+00:07:54,912 --> 00:07:59,128
+<i>jadi aku berusaha belajar dengan giat</i>
+<i>supaya tidak dibilang seperti itu.</i>
+
+103
+00:07:59,952 --> 00:08:01,864
+<i>Tapi, sudah tidak ada lagi</i>
+<i>yang kumengerti,</i>
+
+104
+00:08:02,336 --> 00:08:04,520
+<i>lalu aku sendiri yang gagal</i>
+<i>dan mengulang kelas.</i>
+
+105
+00:08:06,660 --> 00:08:07,144
+Kumohon!
+
+106
+00:08:09,144 --> 00:08:10,030
+Kumohon, Luna!
+
+107
+00:08:11,280 --> 00:08:13,784
+Tidak ada lagi selain kau...
+
+108
+00:08:16,504 --> 00:08:17,296
+...tidak ada lagi...
+
+109
+00:08:19,600 --> 00:08:23,368
+...Senku, teman kami,
+
+110
+00:08:24,864 --> 00:08:27,352
+kumohon selamatkan dia!
+
+111
+00:08:40,096 --> 00:08:41,976
+Sial!
+
+112
+00:08:42,344 --> 00:08:44,096
+Menyerang secara sembunyi-sembunyi
+dari mana pun,
+
+113
+00:08:44,512 --> 00:08:46,755
+kita pasti akan langsung ketahuan
+oleh mereka.
+
+114
+00:08:47,728 --> 00:08:49,047
+Kalau kita menyerang
+secara membabi buta,
+
+115
+00:08:49,071 --> 00:08:50,592
+kita pasti akan tamat
+dihujani panah oleh mereka.
+
+116
+00:08:50,816 --> 00:08:54,120
+Ya, kalau panah sih, aku masih
+bisa menghalaunya.
+
+117
+00:08:54,360 --> 00:08:58,288
+Tapi, tamatlah kita kalau mereka
+menyerang dengan senapan mesin.
+
+118
+00:08:58,568 --> 00:09:02,648
+Memang gawat, karena kita
+melawan kerajaan sains juga.
+
+119
+00:09:13,648 --> 00:09:16,568
+Kita mendapatkan bantuan
+tenaga dari anggota elit kita!
+
+120
+00:09:17,064 --> 00:09:19,416
+Kalian hebat juga bisa
+sampai ke sini!
+
+121
+00:09:19,888 --> 00:09:24,224
+Jejak bunga yang ditinggalkan
+oleh Gen menuntun kita ke sini!
+
+122
+00:09:26,680 --> 00:09:28,456
+Jadi itu markas musuh.
+
+123
+00:09:29,376 --> 00:09:32,393
+Aku ingin keluar dari ladang
+jagung pada saat malam hari, tapi...
+
+124
+00:09:33,920 --> 00:09:35,640
+Akan sulit karena terlalu luas
+dan terbuka.
+
+125
+00:09:36,704 --> 00:09:38,463
+Walaupun dekat dengan danau,
+
+126
+00:09:38,616 --> 00:09:40,350
+tetapi tidak ada cukup tempat
+untuk bersembunyi.
+
+127
+00:09:40,616 --> 00:09:43,352
+Jika saja kita bisa menyelinap
+ke markas musuh,
+
+128
+00:09:43,904 --> 00:09:45,832
+kita tidak akan kalah bila
+harus bertarung, tapi...
+
+129
+00:09:46,440 --> 00:09:51,928
+Kita harus menangkap bos musuh,
+Dr. Xeno, dan melarikan diri dari sana.
+
+130
+00:09:53,608 --> 00:09:55,072
+Kurasa kita harus menggali.
+
+131
+00:09:56,336 --> 00:09:57,408
+Kau benar.
+
+132
+00:09:58,624 --> 00:09:59,232
+Menggali?
+
+133
+00:10:00,120 --> 00:10:01,112
+Jangan bilang?
+
+134
+00:10:02,304 --> 00:10:02,664
+Ya!
+
+135
+00:10:04,592 --> 00:10:05,800
+Kita akan membuat
+rencana pelarian diri terbalik.
+
+136
+00:10:06,835 --> 00:10:09,338
+Kita akan menggali terowongan
+bawah tanah untuk menyusup...
+
+137
+00:10:10,280 --> 00:10:11,528
+...ke markas musuh!
+
+138
+00:10:12,384 --> 00:10:14,192
+Luar biasa!
+
+139
+00:10:14,392 --> 00:10:17,744
+Menggali terowongan
+sangat sulit, lho!
+
+140
+00:10:18,280 --> 00:10:19,856
+Yang terpenting,
+
+141
+00:10:20,096 --> 00:10:22,129
+kita membutuhkan bantuan
+Senku untuk pengadaan...
+
+142
+00:10:22,153 --> 00:10:24,648
+...alat sains dalam jumlah
+yang besar untuk penggalian.
+
+143
+00:10:25,120 --> 00:10:26,450
+Itu benar.
+
+144
+00:10:28,920 --> 00:10:31,816
+Kebetulan,
+ada pesan masuk dari Perseus.
+
+145
+00:10:33,152 --> 00:10:37,928
+<i>433233.</i>
+
+146
+00:10:38,168 --> 00:10:38,696
+Hah?
+
+147
+00:10:39,020 --> 00:10:41,666
+- Angka aneh apa itu?
+- <i>32747674...</i>
+
+148
+00:10:41,690 --> 00:10:43,956
+- Apa Ryusui mengerjaimu?
+- <i>32747674...</i>
+
+149
+00:10:43,980 --> 00:10:45,790
+- Ini sandi “Uesugi.”
+- <i>32747674...</i>
+
+150
+00:10:46,540 --> 00:10:47,984
+Ini sandi yang digunakan
+oleh Uesugi Kenshin,
+
+151
+00:10:48,440 --> 00:10:50,528
+seorang panglima perang
+dari zaman peperangan,
+
+152
+00:10:51,144 --> 00:10:52,656
+yang strukturnya sangat sederhana.
+
+153
+00:10:53,272 --> 00:10:56,584
+Kita berkomunikasi dengan membaca
+angka yang sesuai dengan tabel Iroha.
+
+154
+00:10:57,344 --> 00:10:59,928
+Sejenius apapun Dr. Xeno,
+
+155
+00:11:00,220 --> 00:11:01,741
+dia tidak akan tahu
+apa itu “Irohanihoheto”,
+
+156
+00:11:01,765 --> 00:11:03,684
+Karena dia bukanlah orang Jepang.
+(Irohanihoheto: Puisi terkenal Jepang)
+
+157
+00:11:05,448 --> 00:11:07,672
+Kalau dibandingkan dengan musuh,
+ini sandi analog yang hebat.
+
+158
+00:11:08,344 --> 00:11:10,216
+Simpel namun sangat efektif.
+
+159
+00:11:10,880 --> 00:11:11,676
+Kita memperpendek pesannya,
+
+160
+00:11:11,700 --> 00:11:13,624
+menghindari risiko pesan kita
+terbaca oleh musuh.
+
+161
+00:11:14,248 --> 00:11:17,392
+Jadi maksud dari kode ini apa?
+
+162
+00:11:17,496 --> 00:11:21,910
+<i>63, 57, 24.</i>
+
+163
+00:11:22,176 --> 00:11:23,161
+Senku...
+
+164
+00:11:24,288 --> 00:11:25,304
+...telah tertembak!
+
+165
+00:11:28,784 --> 00:11:31,304
+Tak apa,
+kelihatannya dia masih hidup.
+
+166
+00:11:33,528 --> 00:11:35,361
+Kita tidak punya pilihan lain,
+
+167
+00:11:35,385 --> 00:11:39,056
+situasinya tidak memungkinkan
+kita untuk meminta bantuan.
+
+168
+00:11:39,944 --> 00:11:44,072
+Kita tetap akan membuat terowongan
+tanpa alat sains untuk menggali!
+
+169
+00:11:47,096 --> 00:11:48,640
+Ada pesan lagi dari Senku.
+
+170
+00:11:49,272 --> 00:11:50,416
+Hanya 3 huruf.
+
+171
+00:11:52,060 --> 00:11:53,420
+47, (KU)
+
+172
+00:11:54,704 --> 00:11:56,136
+12, (RO)
+
+173
+00:11:57,192 --> 00:11:58,608
+42. (MU)
+
+174
+00:12:01,464 --> 00:12:02,208
+<i>Chrome.</i>
+
+175
+00:12:22,336 --> 00:12:25,472
+Kau sudah tahu jawabannya.
+
+176
+00:12:29,680 --> 00:12:32,168
+<i>Situasi gila seperti apa pun</i>
+<i>yang dihadapi manusia...</i>
+
+177
+00:12:32,728 --> 00:12:36,208
+<i>...10 milyar persen,</i>
+<i>ilmuwan pasti akan muncul!</i>
+
+178
+00:12:36,880 --> 00:12:38,759
+<i>Akan selalu ada orang</i>
+<i>yang sangat serakah...</i>
+
+179
+00:12:38,783 --> 00:12:40,936
+<i>...untuk mengetahui</i>
+<i>setiap rinci dunia!</i>
+
+180
+00:12:44,024 --> 00:12:46,328
+Ilmuwannya adalah kau...
+
+181
+00:12:48,456 --> 00:12:50,408
+<i>...Dr. Chrome!</i>
+
+182
+00:13:00,904 --> 00:13:03,152
+<i>Untuk bisa masuk</i>
+<i>ke markas Dr, Xeno,</i>
+
+183
+00:13:03,848 --> 00:13:06,224
+<i>kita harus membuat</i>
+<i>terowongan bawah tanah rahasia...</i>
+
+184
+00:13:07,768 --> 00:13:09,088
+<i>...dengan kekuatan sains.</i>
+
+185
+00:13:10,976 --> 00:13:13,271
+<i>Tetapi, saat ini Senku sedang tidak</i>
+<i>sadarkan diri akibat tertembak.</i>
+
+186
+00:13:14,288 --> 00:13:15,320
+<i>Lalu siapa lagi yang mampu?</i>
+
+187
+00:13:16,944 --> 00:13:17,784
+<i>Apa aku mampu melakukan ini?</i>
+
+188
+00:13:18,504 --> 00:13:21,316
+<i>Aku, yang pernah</i>
+<i>menyombongkan diri...</i>
+
+189
+00:13:21,340 --> 00:13:24,064
+<i>...dapat mengubah warna api</i>
+<i>dengan sihir ini?</i>
+
+190
+00:13:26,368 --> 00:13:27,096
+<i>Tidak...</i>
+
+191
+00:13:30,130 --> 00:13:31,376
+<i>...bukan itu pertanyaannya.</i>
+
+192
+00:13:31,400 --> 00:13:32,592
+<i>Kalau bukan aku, lalu siapa lagi?</i>
+
+193
+00:13:34,200 --> 00:13:36,032
+<i>Aku Chrome si pengguna sains!</i>
+
+194
+00:13:37,144 --> 00:13:41,488
+Aku akan membuat semuanya,
+dimulai dari map perencanaannya!
+
+195
+00:13:45,688 --> 00:13:47,216
+Ini akan memakan waktu.
+
+196
+00:13:49,296 --> 00:13:50,720
+Setidaknya sekitar 2 minggu.
+
+197
+00:13:55,720 --> 00:13:57,968
+Dr. Xeno dan kroninya mungkin
+berpikir dengan membunuh Senku,
+
+198
+00:13:58,056 --> 00:14:00,328
+mereka telah berhasil menyingkirkan
+ancaman sains mereka.
+
+199
+00:14:01,184 --> 00:14:02,544
+Yang artinya mereka
+bisa muncul kapan saja...
+
+200
+00:14:02,776 --> 00:14:04,336
+...dan meminta kita
+untuk menyerah.
+
+201
+00:14:04,888 --> 00:14:05,952
+Menyerah?
+
+202
+00:14:06,064 --> 00:14:08,560
+Si bodoh itu mengira kita
+akan menyerah begitu saja!
+
+203
+00:14:08,856 --> 00:14:12,656
+Kita mungkin tidak mau,
+tapi pilihan apalagi yang kita miliki?
+
+204
+00:14:12,968 --> 00:14:14,904
+Mungkin yang dikatakan Hyoga
+akan terjadi,
+
+205
+00:14:15,120 --> 00:14:17,186
+mereka menggunakan kapal
+bajak laut cepat ukuran kecil...
+
+206
+00:14:17,210 --> 00:14:18,064
+...untuk mengalahkan kita.
+
+207
+00:14:18,664 --> 00:14:21,528
+Akan kah terjadi besok,
+atau bulan depan,
+
+208
+00:14:21,816 --> 00:14:24,176
+tidak akan ada yang tahu,
+namun...
+
+209
+00:14:24,760 --> 00:14:26,152
+“Serangan yang cepat itu berisiko.”
+
+210
+00:14:26,400 --> 00:14:28,346
+“Bersabar itu lebih bijak.”
+
+211
+00:14:28,976 --> 00:14:31,688
+Kita harus mencoba
+menuntun musuh ke arah sana,
+
+212
+00:14:32,552 --> 00:14:33,240
+benar, bukan?
+
+213
+00:14:37,408 --> 00:14:40,064
+<i>Kita harus mengulur waktu!</i>
+
+214
+00:14:41,160 --> 00:14:44,264
+<i>Dengan medusa asli yang dibawa</i>
+<i>oleh Ukyo.</i>
+
+215
+00:14:45,240 --> 00:14:48,488
+<i>Dr. Xeno akan mendapatkan</i>
+<i>hadiah spesial.</i>
+
+216
+00:14:49,072 --> 00:14:51,792
+<i>Apa?</i>
+
+217
+00:14:59,628 --> 00:15:00,480
+Itu?
+
+218
+00:15:02,900 --> 00:15:07,456
+Kita menyerahkan medusa,
+senjata terkuat begitu saja?
+
+219
+00:15:07,592 --> 00:15:09,312
+Baterainya sudah habis, lho.
+
+220
+00:15:09,376 --> 00:15:11,000
+Tapi, kan...
+
+221
+00:15:13,224 --> 00:15:14,240
+Aku paham!
+
+222
+00:15:15,380 --> 00:15:19,760
+<i>Ilmuwan sejenius Dr. Xeno akan</i>
+<i>tahu kalau itu asli dan menyadari...</i>
+
+223
+00:15:20,750 --> 00:15:25,000
+<i>...bahwa teknologi tinggi itu melebihi</i>
+<i>apa pun yang ada di abad 21!</i>
+
+224
+00:15:25,432 --> 00:15:27,224
+Dan ancaman itu akan cukup
+untuk menahan dirinya?
+
+225
+00:15:28,552 --> 00:15:30,088
+Jangan konyol.
+
 226
-00:19:59,011 --> 00:20:00,378
-SAINS ADALAH KEKUATAN
+00:15:30,480 --> 00:15:32,680
+Jelas kita butuh seseorang untuk
+membohongi dengan penjelasan palsu.
 
 227
-00:20:03,306 --> 00:20:06,267
-Sainsku bisa membuatku
-menguasai dunia.
+00:15:32,952 --> 00:15:33,728
+Siapa yang akan melakukannya?
 
 228
-00:20:07,268 --> 00:20:12,899
-Jika bekerja sama,
-dominasi kita akan berlipat ganda.
+00:15:35,616 --> 00:15:39,104
+Maksudmu, si pembohong ini harus
+bisa menebak seluruh rencana kita?
 
 229
-00:20:12,924 --> 00:20:14,209
-SAINS ITU ELEGAN
-DR. X NASA
+00:15:39,576 --> 00:15:41,066
+Dan tetap mempertahankan
+kebohongannya...
 
 230
-00:20:14,234 --> 00:20:19,781
-Tapi, masa depan seperti itu tidak
-akan pernah diterima oleh Senku.
+00:15:41,090 --> 00:15:42,528
+...dengan mengaku bahwa
+alat itu hanyalah salah satu...
 
 231
-00:20:38,883 --> 00:20:41,970
-Ya, tembak saja.
+00:15:42,552 --> 00:15:44,126
+...dari banyak senjata batu
+yang kita miliki?
 
 232
-00:20:54,691 --> 00:20:55,817
-Tepung kentang?
+00:15:44,150 --> 00:15:47,860
+Apa kita punya seseorang di markas
+musuh yang mampu melakukan hal itu?
 
 233
-00:20:56,366 --> 00:20:59,161
-Atau bubuk kudzu yang buat
-ice cream tadi, ya?
+00:15:50,600 --> 00:15:54,683
+Jangan-jangan itu
+senjata pembatuan?
 
 234
-00:21:00,029 --> 00:21:01,489
-Ah keduanya sama saja!
+00:15:57,960 --> 00:16:00,872
+Kau tahu benda apa ini, Mr. Gen?
 
 235
-00:21:01,698 --> 00:21:02,782
-Air!
+00:16:05,310 --> 00:16:11,490
+Kami menemukan banyak
+senjata itu di pulau selatan.
 
 236
-00:21:33,313 --> 00:21:34,985
-<i>Cairan dilatan...</i>
+00:16:12,460 --> 00:16:14,776
+Itu adalah artefak kuno,
 
 237
-00:21:35,445 --> 00:21:37,655
-<i>Substansi tepung kentang...</i>
+00:16:14,912 --> 00:16:19,128
+dan untungnya yang dikirim
+ke depan pintumu itu sudah mati!
 
 238
-00:21:37,680 --> 00:21:39,610
-<i>...yang bila dicampur dengan air,</i>
+00:16:19,304 --> 00:16:23,980
+Jika tidak, aku, kau dan semua yang ada
+di sini sudah menjadi patung batu semua!
 
 239
-00:21:40,355 --> 00:21:44,359
-<i>hasilnya cair tapi bila diberi</i>
-<i>tekanan yang cukup,</i>
+00:16:24,032 --> 00:16:25,592
+Sungguh mengerikan!
 
 240
-00:21:45,663 --> 00:21:49,196
-<i>viskositasnya akan meningkat</i>
-<i>sampai ke titik yang hampir padat.</i>
+00:16:26,160 --> 00:16:28,712
+<i>Apa itu kah kebohongan yang</i>
+<i>kau harapkan dariku Senku?</i>
 
 241
-00:21:49,883 --> 00:21:53,720
-<i>Konsep ini diambil untuk dijadikan</i>
-<i>pembuatan rompi anti peluru,</i>
+00:16:29,096 --> 00:16:30,706
+<i>Aku tidak bisa memikirkan</i>
+<i>alasan lain...</i>
 
 242
-00:21:53,745 --> 00:21:55,173
-<i>juga sudah melalui hasil penelitian.</i>
+00:16:30,730 --> 00:16:34,304
+<i>...karena kau sendiri yang mengirim</i>
+<i>senjata itu ke tangan musuh.</i>
 
 243
-00:21:57,587 --> 00:22:00,089
-<i>Tapi, penerapannya di lapangan</i>
-<i>masih belum ada...</i>
+00:16:36,128 --> 00:16:38,476
+Apa ini kebohonganmu yang lain,
+dasar pengkhianat!
 
 244
-00:23:52,076 --> 00:23:54,871
-EPISODE SELANJUTNYA:
-CAHAYA SAINS
+00:16:39,120 --> 00:16:41,736
+Setelah kebohonganmu mengenai
+ilmuwan pimpinan musuh!
+
+245
+00:16:42,120 --> 00:16:45,632
+Apanya yang Dr. Taiju,
+dia itu Dr. Senku, 'kan?
+
+246
+00:16:45,824 --> 00:16:47,968
+Apa, kau serius?
+
+247
+00:16:48,304 --> 00:16:49,716
+Aku sendiri berhasil tertipu
+olehnya!
+
+248
+00:16:49,740 --> 00:16:52,896
+Habisnya mereka berdua itu
+tak terpisahkan!
+
+249
+00:16:53,256 --> 00:16:57,104
+Jadi, maksudmu ilmuwan cerdas yang
+sebenarnya itu adalah Senku?
+
+250
+00:16:59,952 --> 00:17:02,488
+Tanpa mengesampingkan
+kredibilitas Mr. Gen ini.
+
+251
+00:17:03,176 --> 00:17:08,904
+Mesin kecil elegan ini melebihi
+semua teknologi dari dunia lama.
+
+252
+00:17:09,800 --> 00:17:10,960
+Bagaimana cara kerjanya?
+
+253
+00:17:11,496 --> 00:17:12,640
+Untuk berapa lama?
+
+254
+00:17:13,208 --> 00:17:14,520
+Dan berapa radiusnya?
+
+255
+00:17:15,360 --> 00:17:17,808
+Kau sudah kembali Stanley?
+
+256
+00:17:20,664 --> 00:17:23,176
+Maaf Stanley...
+
+257
+00:17:23,456 --> 00:17:25,476
+Tapi itu rahasia yang dia
+jaga ketat di tim tempur mereka,
+
+258
+00:17:25,500 --> 00:17:27,632
+jadi aku tidak tahu.
+
+259
+00:17:28,088 --> 00:17:30,072
+Tapi, hanya 1 yang bisa aku katakan...
+
+260
+00:17:30,820 --> 00:17:35,256
+...kalian pasti ingat sinar pembatu yang
+mengubah kita ribuan tahun lalu, kan?
+
+261
+00:17:35,648 --> 00:17:37,736
+Dan bagaimana sinar itu
+tak terhindarkan?
+
+262
+00:17:37,872 --> 00:17:39,456
+Jika kalian kehilangan kesabaran
+dan menyerang kapal itu,
+
+263
+00:17:39,480 --> 00:17:41,864
+maka kalian akan langsung
+kembali menjadi patung batu.
+
+264
+00:17:46,860 --> 00:17:48,480
+Benda ini adalah sains
+yang tak terjelaskan,
+
+265
+00:17:49,020 --> 00:17:51,250
+dan kita tidak punya metode
+untuk membuktikannya.
+
+266
+00:17:52,032 --> 00:17:54,256
+Walau itu sebenarnya tidak penting.
+
+267
+00:18:03,376 --> 00:18:04,466
+Apa ini?
+
+268
+00:18:04,490 --> 00:18:05,586
+Berisik sekali!
+
+269
+00:18:05,610 --> 00:18:06,888
+Kau bernyanyi?
+
+270
+00:18:06,968 --> 00:18:09,296
+Buta nada yang sangat parah!
+
+271
+00:18:09,818 --> 00:18:14,408
+Apa ini senjata
+penghancur terkuatmu?
+
+272
+00:18:19,048 --> 00:18:21,640
+Bagaimana perkembangan “itu”?
+
+273
+00:18:22,664 --> 00:18:27,576
+Setelah “itu” siap, maka senjata
+pembatuan itu tidak akan berpengaruh,
+
+274
+00:18:27,992 --> 00:18:30,112
+karena mereka tidak akan punya
+waktu untuk melemparkannya.
+
+275
+00:18:30,736 --> 00:18:32,146
+Di saat itu, aku akan
+mengambil alih kapal mereka...
+
+276
+00:18:32,170 --> 00:18:34,112
+...bahkan sebelum mereka
+menyadarinya.
+
+277
+00:18:35,344 --> 00:18:36,512
+Dr. Brody!
+
+278
+00:18:37,456 --> 00:18:41,208
+Mekanik jeniusku, kami mengandalkanmu
+dan tangan kanan emasmu!
+
+279
+00:18:41,936 --> 00:18:43,601
+Kapan perkiraan waktu
+hingga “itu” selesai?
+
+280
+00:18:44,264 --> 00:18:45,288
+Satu bulan lagi?
+
+281
+00:18:45,448 --> 00:18:46,392
+Atau setengah tahun lagi?
+
+282
+00:18:50,336 --> 00:18:52,656
+Jangan meremehkanku
+dasar amatir!
+
+283
+00:18:53,568 --> 00:18:57,216
+2 minggu, “itu” akan selesai
+dalam 2 minggu lagi!
+
+284
+00:18:57,664 --> 00:19:01,296
+Fantastis,
+sungguh jawaban yang elegan!
+
+285
+00:19:03,736 --> 00:19:06,272
+<i>Pembicaraan yang ingin</i>
+<i>dirahasiakan dariku,</i>
+
+286
+00:19:06,936 --> 00:19:08,176
+<i>apa mereka sedang</i>
+<i>membuat sesuatu?</i>
+
+287
+00:19:08,720 --> 00:19:14,248
+<i>Sesuatu yang tidak pernah diduga</i>
+<i>oleh Senku dan teman-teman,</i>
+
+288
+00:19:14,376 --> 00:19:16,500
+<i>sebuah alat sains rahasia?</i>
+
+289
+00:19:17,928 --> 00:19:21,139
+<i>Walau bagaimana pun itu,</i>
+<i>aku sudah berhasil mengulur waktu!</i>
+
+290
+00:19:22,648 --> 00:19:27,576
+<i>Tapi dengan begitu, aku juga memberi</i>
+<i>waktu untuk perkembangan sains musuh.</i>
+
+291
+00:19:30,664 --> 00:19:33,568
+<i>Ini adalah adu kecepatan dari...</i>
+
+292
+00:19:40,360 --> 00:19:43,856
+<i>...perang mencipta Sains vs Sains!</i>
+
+293
+00:19:46,164 --> 00:19:48,536
+Tidak mungkin
+aku melakukannya sendiri!
+
+294
+00:19:49,344 --> 00:19:50,904
+Aku butuh bantuan kalian,
+teman-teman!
+
+295
+00:19:51,304 --> 00:19:53,671
+Suika siap membantumu!
+
+296
+00:19:59,260 --> 00:20:00,888
+Bagaimana sebenarnya
+kita mengukur benda itu,
+
+297
+00:20:00,912 --> 00:20:03,408
+dengan hanya meneropong
+markas musuh seperti ini?
+
+298
+00:20:04,184 --> 00:20:05,784
+Dengan menggunakan triangulasi,
+
+299
+00:20:06,424 --> 00:20:08,760
+hanya dengan tali
+dan sepasang sudut,
+
+300
+00:20:09,424 --> 00:20:10,832
+kita bisa memperkirakan
+panjang terowongan,
+
+301
+00:20:10,856 --> 00:20:12,440
+tanpa harus mengunjungi tujuan kita.
+
+302
+00:20:13,488 --> 00:20:18,968
+Tambahkan angka ini di sini,
+bukan, kalikan ini, lalu ini.
+
+303
+00:20:22,672 --> 00:20:23,832
+Aritmatika, ya?
+
+304
+00:20:24,192 --> 00:20:27,256
+Kau ingat kekalahan telakmu
+saat melawan Senku...
+
+305
+00:20:27,280 --> 00:20:29,272
+...di pertandingan aritmatika,
+Chrome?
+
+306
+00:20:29,856 --> 00:20:33,048
+Waktu itu aku hanya tahu
+penjumlahan saja.
+
+307
+00:20:33,632 --> 00:20:36,214
+Tidak, sekarang pun masih sama.
+
+308
+00:20:38,880 --> 00:20:39,968
+Menakjubkan!
+
+309
+00:20:40,056 --> 00:20:41,768
+Serumit ini berhasil kau selesaikan?
+
+310
+00:20:42,576 --> 00:20:43,721
+Aku baru mulai!
+
+311
+00:20:44,240 --> 00:20:45,536
+Masih ada kelanjutannya!
+
+312
+00:21:02,672 --> 00:21:04,160
+<i>Dengan ini selesai sudah!</i>
+
+313
+00:21:06,072 --> 00:21:08,746
+<i>Aku, Chrome si pengguna sains!</i>
+
+314
+00:21:12,096 --> 00:21:16,544
+Ya, selesai sudah temuan besar
+pertama Dr. Chrome!
+
+315
+00:21:16,744 --> 00:21:17,760
+RENCANA KERJA/ROADMAP
+
+316
+00:21:17,784 --> 00:21:20,008
+Ini dia rencana kerja originalnya!
+
+317
+00:21:23,376 --> 00:21:26,264
+Dan bagian tergila dari ideku...
+
+318
+00:21:26,680 --> 00:21:27,688
+...adalah ini!
+
+319
+00:21:27,712 --> 00:21:30,059
+MESIN BERPUTAR OTOMATIS SUPER (BOR)
+
+320
+00:21:30,824 --> 00:21:33,664
+<i>Jika diputar, benda ini akan</i>
+<i>menggali terowongan untuk kita.</i>
+
+321
+00:21:34,000 --> 00:21:37,632
+<i>Sains abad 21 tidak pernah</i>
+<i>menciptakan benda semacam ini, kan?</i>
+
+322
+00:21:38,304 --> 00:21:42,936
+Mesin berputar otomatis super?
+
+323
+00:21:43,144 --> 00:21:45,224
+Iya, itulah nama alat ini!
+
+324
+00:21:45,450 --> 00:21:47,869
+MESIN BERPUTAR OTOMATIS
+SUPER (BOR)
+
+325
+00:21:48,786 --> 00:21:49,576
+Mesin bor, ya?
+
+326
+00:21:52,056 --> 00:21:53,096
+Ternyata sudah ada?
+
+327
+00:21:56,890 --> 00:21:58,272
+Tapi jika kita menggunakan ini!
+
+328
+00:21:58,728 --> 00:22:01,500
+Ya, kita bisa menggali terowongan.
+
+329
+00:22:02,072 --> 00:22:05,592
+Oke, ayo kita serbu langsung...
+
+330
+00:22:06,504 --> 00:22:07,928
+...sampai ke markas musuh!
+
+331
+00:22:10,888 --> 00:22:13,056
+Dengan menggunakan
+“sains” ciptaanku!
 
